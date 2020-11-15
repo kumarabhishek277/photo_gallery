@@ -1,1 +1,1 @@
-# photo_gallery
+#photo-feed
